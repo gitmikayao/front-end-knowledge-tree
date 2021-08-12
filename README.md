@@ -10,7 +10,7 @@
 
 ### JavaScript
 
-### TypeCript
+### TypeScript
 
 ### Framework
 
@@ -36,6 +36,6 @@
 
 ### Security
 
-### InterView
+### Interview
 
 ### Others
